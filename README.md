@@ -1,6 +1,6 @@
 [![Telegram Link](https://drive.google.com/file/d/10MEli_9RtR2IaqvtFpHiZ8w-klnqeBKR/view?usp=drivesdk)](https://t.me/Tom_Nin)
 
-[![Discord Link]()](discordapp.com/users/282312166470582282)
+[![Discord Link]()](https://discordapp.com/users/282312166470582282)
 
 # TechnoLich
 The objective of this project is to explore a variety of computer I/O systems within cybernetic wearables stylized into a niche but recognizeable fictional form.
