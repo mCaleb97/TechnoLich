@@ -1,4 +1,4 @@
-[![This is a testing image]()](www.google.com)
+[![This is a testing image](https://drive.google.com/file/d/10MEli_9RtR2IaqvtFpHiZ8w-klnqeBKR/view?usp=drivesdk)](www.google.com)
 
 # TechnoLich
 The objective of this project is to explore a variety of computer I/O systems within cybernetic wearables stylized into a niche but recognizeable fictional form.
