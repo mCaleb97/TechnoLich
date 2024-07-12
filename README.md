@@ -1,7 +1,5 @@
 ## Socials
-[![Telegram Link](ReadMeFiles/logo_Telegram.png)](https://t.me/Tom_Nin)
-
-[![Discord Link](ReadMeFiles/logo_Discord.png)](https://discordapp.com/users/282312166470582282)
+[![Telegram Link](ReadMeFiles/logo_Telegram.png)](https://t.me/Tom_Nin)[![Discord Link](ReadMeFiles/logo_Discord.png)](https://discordapp.com/users/282312166470582282)
 
 # TechnoLich Project
 The objective of this project is to explore a variety of computer I/O systems within cybernetic wearables stylized into a niche but recognizeable fictional form.
